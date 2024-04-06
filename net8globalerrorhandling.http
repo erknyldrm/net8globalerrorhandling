@@ -1,0 +1,6 @@
+@net8globalerrorhandling_HostAddress = http://localhost:5237
+
+GET {{net8globalerrorhandling_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
